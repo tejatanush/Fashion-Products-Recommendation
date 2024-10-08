@@ -14,8 +14,8 @@ Display Recommendations
 ### Compiler Type:  
 I used a compiler intel CPU provided in my PC while running this project.
 ## Prediction
-###Style Image
-![Style Image](https://github.com/tejatanush/Fashion-Products-Recommendation/blob/main/16871.jpg)
+### Style Image                                                                                                                                                                                                             
+![Style Image](https://github.com/tejatanush/Fashion-Products-Recommendation/blob/main/16871.jpg)                                                                                                                           
 ![Prediction 1](https://github.com/tejatanush/Fashion-Products-Recommendation/blob/main/prediction%201.jpeg)
 ![Prediction 2](https://github.com/tejatanush/Fashion-Products-Recommendation/blob/main/prediction%202.jpeg)
 ![Prediction 3](https://github.com/tejatanush/Fashion-Products-Recommendation/blob/main/prediction%203.jpeg)
